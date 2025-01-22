@@ -75,7 +75,7 @@
 
 	<p>
 		Paste in your deck list and look up each printing of the card and find the print with the lowest <a
-			href="https://store.tcgplayer.com/help/marketprice"
+			href="https://help.tcgplayer.com/hc/en-us/articles/213588017-TCGplayer-Market-Price"
 			target="_blank">TCGPlayer Market Price</a
 		>, the price a card has recently been selling at. It does not guarantee you'll find a card for
 		exactly that price.
